@@ -7,4 +7,5 @@ Input MIDI files are to be placed in the MIDIFiles folder. Each track in the fil
 
 ## Technical Description
 ['rnn_hip_hop.py'](rnn_hip_hop.py): This is the RNN used to generate the melodies
+
 ['parseMIDI.py'](parseMIDI.py): This is the program used to parse through the MIDI files and convert them into a format that the RNN can read, and then reconstruct the output into a MIDI file
